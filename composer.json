@@ -4,8 +4,8 @@
     "type": "project",
     "require": {
         "php": "^5.5.9 || ^7.0",
-        "php-light/framework": "^0.0.2",
-        "php-light/http": "^0.0.4"
+        "php-light/framework": "^0.0.2 || dev-master",
+        "php-light/http": "^0.0.4 || dev-master"
     },
     "authors": [
         {
