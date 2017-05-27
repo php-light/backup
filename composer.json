@@ -12,5 +12,6 @@
             "name": "Khalid Sookia",
             "email": "khalidsookia@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
