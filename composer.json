@@ -1,0 +1,16 @@
+{
+    "name": "php-light/backup",
+    "description": "A bundle to backup database and uploaded or generated public contents",
+    "type": "project",
+    "require": {
+        "php": "5.6",
+        "php-light/framework": "^0.0.2",
+        "php-light/http": "^0.0.4"
+    },
+    "authors": [
+        {
+            "name": "Khalid Sookia",
+            "email": "khalidsookia@gmail.com"
+        }
+    ]
+}
